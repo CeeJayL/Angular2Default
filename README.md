@@ -1,6 +1,5 @@
-# StartingWithAngular2
+# Angular2Default
 
-This repo contains the Starter Kit for the "Starting with Angular2" course project application.
+modified from the boilerplate project for 'StartingWithAngular2' from AlohaCode
 
-The completed project (project after all coding exercies are applied) is located @  
-https://github.com/AlohaCode/StartingWithAngular2-CompletedProject
+This project can be cloned to get up-and-running with a basic angular 2 project for cloud9 development
